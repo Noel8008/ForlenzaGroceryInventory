@@ -78,3 +78,7 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
+
+
+
+#i dont nkow :(
